@@ -2,9 +2,9 @@
 // @name         OpenAI Chat List Toggle Button
 // @namespace    https://github.com/tfindleton/userscript-openai-chat-toggle/
 // @version      0.7
-// @description  Toggle the chat list visibility on openai.com via a toggle button near the New Chat button
+// @description  Toggle the chat list visibility on chat.openai.com via a toggle button near the New Chat button
 // @author       tfindleton
-// @match        https://*.openai.com/*
+// @match        https://chat.openai.com/*
 // @grant        none
 // ==/UserScript==
 
