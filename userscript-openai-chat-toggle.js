@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         OpenAI Chat List Toggle Button
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/tfindleton/userscript-openai-chat-toggle/
 // @version      0.7
 // @description  Toggle the chat list visibility on openai.com via a toggle button near the New Chat button
 // @author       tfindleton
